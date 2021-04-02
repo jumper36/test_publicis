@@ -31,6 +31,7 @@ _exemple_: exécutez les commandes
 Les tests peuvent être exécuter de façon global ou particulière selon que l'on veuille exécuter l'ensemble des tests (si plusieurs) ou un test spécifique
 
 _tous les tests_: exécuter la commande ``pytest``
+
 _un test spécifique_: exécuter la commande ``pytest -k "test_name"``
 
 Mais avec l'utilisation de pipenv, nous préférons la méthode suivante : ``pipenv run python -m pytest``
