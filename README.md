@@ -1,8 +1,6 @@
 # Publicis_QA_Challenge
 
-Une petite description du projet
-
-## Pour commencer
+Une petite description du projet :
 
 Mettre en place un Framework d’automatisation des tests en utilisant l’outil de votre choix qui permet de :
 - Rédiger les scénarios en Gherkin d’une recherche par mot clé sur Google;
